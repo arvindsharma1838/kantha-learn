@@ -1,0 +1,8 @@
+{
+  "name": "Katha — Hindu Epics Quiz & Archive",
+  "description": "Test your knowledge of the Ramayana, Mahabharata, and Puranas across three difficulty modes and learn through curated study guides and interactive timelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
